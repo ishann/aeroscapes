@@ -1,13 +1,13 @@
 # Aeroscapes
-[//]: # "![aeroscapes_dataset_sample_images](assets/logo.png)"
+[//]: # "![aeroscapes_logo](assets/logo.png)"
 
 
 ### Introduction
 The AeroScapes aerial semantic segmentation benchmark comprises of images captured using a commercial drone from an altitude range of 5 to 50 metres.
 The dataset provides 3269 720p images and ground-truth masks for 11 classes.
 
-[//]: # "![aeroscapes_dataset_sample_images](https://github.com/ishann/aeroscapes/blob/master/fig_dataset.jpg)"
-![aeroscapes_dataset_sample_images](assets/fig_dataset.jpg)
+![aeroscapes_dataset_sample_images](https://github.com/ishann/aeroscapes/blob/master/data_montage.png)
+
 
 ### Instructions 
 Clone the repository
