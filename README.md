@@ -10,17 +10,10 @@ The dataset provides 3269 720p images and ground-truth masks for 11 classes.
 
 
 ### Instructions 
-Clone the repository
+The data is available for download on [Google Drive](http://bit.ly/3280o4D).
 
-    git clone git@github.com:ishann/aeroscapes.git
+On extraction, the downloaded file results in the following directory
 
-Download the data
-
-    bash download.sh
-
-This results in the following directory
-
-    data/
         aeroscapes/
             JPEGImages/
                 3269 RGB images.
@@ -30,8 +23,6 @@ This results in the following directory
                 3269 RGB ground-truth segmentation visualizations.
             ImageSets/
                 Training and validation splits for data.
-        aeroscapes.tar.gz
-            Downloaded file (local reference to avoid need for repeated downloads).
 
 
 ### Reference
@@ -47,7 +38,7 @@ We acknowledge the efforts of [Autel Robotics](https://www.autelrobotics.com) in
 
 
 ### Questions and Comments
-For comments and feedback, contact Ishan Nigam at inigam@cs.cmu.edu.
+For comments and feedback, contact Ishan Nigam at ishannigam@gmail.com.
 
 
 
