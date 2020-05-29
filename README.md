@@ -10,7 +10,7 @@ The dataset provides 3269 720p images and ground-truth masks for 11 classes.
 
 
 ### Instructions 
-The data is available for download on [Google Drive](http://bit.ly/3280o4D).
+The data is available for download on [Google Drive](https://drive.google.com/file/d/1W7yQtrGUnPQ1fB2dPb5wPjrLrlQi395g/view?usp=sharing).
 
 On extraction, the downloaded file results in the following directory
 
