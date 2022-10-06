@@ -10,7 +10,7 @@ The dataset provides 3269 720p images and ground-truth masks for 11 classes.
 
 
 ### Instructions 
-The data is available for download on [Google Drive](https://drive.google.com/file/d/1W7yQtrGUnPQ1fB2dPb5wPjrLrlQi395g/view?usp=sharing).
+The data is available for download on [Google Drive](https://drive.google.com/file/d/1WmXcm0IamIA0QPpyxRfWKnicxZByA60v/view?usp=sharing).
 
 On extraction, the downloaded file results in the following directory
 
@@ -26,7 +26,7 @@ On extraction, the downloaded file results in the following directory
 
 
 ### Reference
-If you use AeroScapes in your research, please cite the following:
+If you use AeroScapes in your research, please cite the following [paper](https://www.cs.cmu.edu/~deva/papers/aeroscapes.pdf):
 
     Ensemble Knowledge Transfer for Semantic Segmentation
     Ishan Nigam, Chen Huang, Deva Ramanan
